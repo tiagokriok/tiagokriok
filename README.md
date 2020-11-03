@@ -1,6 +1,6 @@
 ### Hey, I'm Tiago! 👋
 
-- 🔭 I’m currently working on Imprensa Oficial do Estado do Amazonas
+- 🔭 I’m currently working at Imprensa Oficial do Estado do Amazonas
 - 🌱 I’m currently learning React and React Native
 - :rocket: I’m available for remote work as a freelancer! [![Gmail Badge](https://img.shields.io/badge/-Hire%20Me!-393059?style=flat&logo=Gmail&logoColor=white&link=mailto:tiagoacarioca@gmail.com)](mailto:tiagoacarioca@gmail.com?subject=Remote%20Work%20Inquiry)
 <!--
