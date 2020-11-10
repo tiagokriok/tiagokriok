@@ -8,6 +8,9 @@
   - [![Instagram Badge](https://img.shields.io/badge/-Instagram-393059?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/tiagokriok/)](https://www.instagram.com/tiagokriok/)
   - [![Gmail Badge](https://img.shields.io/badge/-Email-393059?style=flat&logo=Gmail&logoColor=white&link=mailto:tiagoacarioca@gmail.com)](mailto:tiagoacarioca@gmail.com)
   - [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-393059?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-carioca-12672094/)](https://www.linkedin.com/in/tiago-carioca-12672094/)
+- 💻 My Apps:
+  - [My Budget App with ReactJS ⚛](https://budget-app-fawn.vercel.app/)
+
 <!--
 **tiagokriok/tiagokriok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
