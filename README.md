@@ -1,7 +1,7 @@
 ### Hey, I'm Tiago! 👋
 
 <!-- - 🌱 I’m currently learning Vue/Nuxt -->
-- :rocket: I’m available for remote work! [![Gmail Badge](https://img.shields.io/badge/-Hire%20Me!-393059?style=flat&logo=Gmail&logoColor=white&link=mailto:tiagoacarioca@gmail.com)](mailto:tiagoacarioca@gmail.com?subject=Remote%20Work%20Inquiry)
+<!-- - :rocket: I’m available for remote work! [![Gmail Badge](https://img.shields.io/badge/-Hire%20Me!-393059?style=flat&logo=Gmail&logoColor=white&link=mailto:tiagoacarioca@gmail.com)](mailto:tiagoacarioca@gmail.com?subject=Remote%20Work%20Inquiry) -->
 - 💬 Ask me about anything, I’m happy to help
 - 📫 How to reach me: 
 <!--   - [![Instagram Badge](https://img.shields.io/badge/-Instagram-393059?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/tiagokriok/)](https://www.instagram.com/tiagokriok/) -->
